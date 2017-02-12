@@ -20,7 +20,7 @@ public class ScavengerHunt {
 
         final Scanner sc;
         try {
-           // File file = new File("/home/pkn/algorithm101/src/test/resources/ScavengerHunt.input");
+           // File file = new File("src/test/resources/ScavengerHunt.input");
             sc = new Scanner(System.in);
             final int noOfScenarios = sc.nextInt();
             for (int currentScenario = 0; currentScenario < noOfScenarios; currentScenario++) {
