@@ -54,7 +54,7 @@ public class ScavengerHunt {
 
 
 
-                System.out.println("Scenario #"+(currentScenario+1));
+                System.out.println("Scenario #"+(currentScenario+1)+":");
                 for (int i = 0; i < linked.size(); i++) {
                     System.out.println(linked.get(i)[0]);
                 }
