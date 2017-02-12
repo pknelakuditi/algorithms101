@@ -1,5 +1,5 @@
 
-package com.pavan.algorithms;
+package com.pavan.algorithms.week1;
 
 import java.util.ArrayList;
 import java.util.HashMap;
